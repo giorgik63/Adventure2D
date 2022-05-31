@@ -1,7 +1,9 @@
 #pragma once
 
-namespace Engine2D {
+// Per uso di applicazioni Engine2D
 
-	__declspec(dllexport) void Print();
+#include "Application.h"
 
-}
+// --- Entry Point ---
+#include "EntryPoint.h"
+//--------------------
