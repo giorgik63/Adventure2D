@@ -2,8 +2,8 @@
 
 // Per uso di applicazioni Engine2D
 
-#include "Application.h"
+#include "Engine/src/Application.h"
 
 // --- Entry Point ---
-#include "EntryPoint.h"
+#include "Engine/src/EntryPoint.h"
 //--------------------

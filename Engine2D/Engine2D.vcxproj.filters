@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Core.h">
+    <ClInclude Include="Engine\src\Core.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Application.h">
+    <ClInclude Include="Engine\src\Application.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Engine2D.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="EntryPoint.h">
+    <ClInclude Include="Engine\src\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Application.cpp">
+    <ClCompile Include="Engine\src\Application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

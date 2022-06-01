@@ -13,7 +13,7 @@ namespace Engine2D {
 		void Run();
 	};
 
-	// Definito nel Client
+	// Definito nel Client o Sandbox
 	Application* CreateApplication();
 
 }
